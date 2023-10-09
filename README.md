@@ -3,7 +3,6 @@
 
 
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=9F0303&width=435&lines=I'm+Samet+Arda+Da%C5%9Ftan;+White+Hat+Hacker)](https://git.io/typing-svg)
 
 
@@ -22,7 +21,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ardasametdastan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-![snake gif](https://github.com/ardasametdastan/ardasametdastan/blob/output/github-contribution-grid-snake.gif)
 
 
 
