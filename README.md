@@ -21,7 +21,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ardasametdastan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
+![huabin's snake gif](https://github.com/huabin/huabin/blob/output/github-contribution-grid-snake.svg)
 
 
 
