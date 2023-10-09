@@ -21,4 +21,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ardasametdastan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ardasametdastan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+![snake gif](https://github.com/ardasametdastan/ardasametdastan/blob/output/github-contribution-grid-snake.gif)
+
+
+
+
 <p align = "left"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt = "oracle" genişlik = "40" yükseklik = "40"/> </a> <a href = "https://www.python.org" target = "_blank" rel = "noreferrer"> 
